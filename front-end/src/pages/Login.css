@@ -1,0 +1,21 @@
+#logo-login {
+  width: 100px;
+}
+
+#Loginpic1{
+    width: 100%;
+    height: 100%;
+}
+
+#registerbg{
+   height: 500px;
+   width: 350px;
+   background-size: contain;
+    background-image: url(../image/Loginpic.png);
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+

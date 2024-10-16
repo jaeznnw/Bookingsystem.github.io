@@ -1,0 +1,29 @@
+.rbc-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .rbc-btn-group button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .rbc-btn-group button:hover {
+    background-color: #0056b3;
+  }
+  
+  .rbc-toolbar-label {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+  
+  .rbc-btn-group .fas {
+    font-size: 0.875rem;
+  }
